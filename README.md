@@ -3,9 +3,14 @@
 <p align="justify">
   - Projeto proposto pela professora da disciplina de Introdução à Computação da CESAR School, na atividade deveríamos criar um simples site portfólio, contendo informações pessoais, uma breve descrição e alguns projetos, se possuísse. Nesta atividade, tentei aplicar algumas habilidades que eu já havia desenvolvido anteriormente.
 
-- JavaScript no design;
 - Parallax;
 - Bibliotecas para o design;
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <!--img align="center" alt="JS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"-->
+</div>
 
 ## 🌐 Autor
 ---
