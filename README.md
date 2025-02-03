@@ -33,5 +33,5 @@ Feito com ❤️ por Victor Barbosa 👋🏽 Entre em contato!
 
 <br>
 <p width="100%" align="center">
-  <a href="https://victorb-s.github.io/CESAR-AT-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Preview-FF5722?style=for-the-badge&logo=todoist&logoColor=white" width="30%"></a>
+  <a href="https://vb-santos.github.io/mini-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Preview-FF5722?style=for-the-badge&logo=todoist&logoColor=white" width="30%"></a>
 </p>
